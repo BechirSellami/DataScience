@@ -1,1 +1,1 @@
-This repo contains several data science projects written in Python and PySpark.
+This repo contains data science projects written in Python and PySpark.
